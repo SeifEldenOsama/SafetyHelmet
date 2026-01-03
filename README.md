@@ -1,6 +1,8 @@
 # Safety Helmet Detection using YOLO
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzeHVpa3QwdzdqYW43aGk4MjlxYmFuaHhja2R3M2YwZmU1eTlkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/msgHgCWZflkp9sbrCe/giphy.gif)
+<img src="[https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzeHVpa3QwdzdqYW43aGk4MjlxYmFuaHhja2R3M2YwZmU1eTlkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/msgHgCWZflkp9sbrCe/giphy.gif)" width="300">
+
+
 
 This project implements a **Safety Helmet Detection** system designed to monitor construction sites and industrial environments for compliance with safety regulations. By leveraging a lightweight object detection model, the system can identify workers wearing safety helmets, those with bare heads, and general personnel in real-time.
 
