@@ -1,5 +1,7 @@
 # Safety Helmet Detection using YOLO
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzeHVpa3QwdzdqYW43aGk4MjlxYmFuaHhja2R3M2YwZmU1eTlkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/msgHgCWZflkp9sbrCe/giphy.gif)
+
 This project implements a **Safety Helmet Detection** system designed to monitor construction sites and industrial environments for compliance with safety regulations. By leveraging a lightweight object detection model, the system can identify workers wearing safety helmets, those with bare heads, and general personnel in real-time.
 
 The core of the system is built around the **YOLO (You Only Look Once)** architecture, specifically trained and optimized for deployment on edge devices using the **TensorFlow Lite (TFLite)** format.
