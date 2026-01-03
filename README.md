@@ -1,6 +1,6 @@
 # Safety Helmet Detection using YOLO
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzeHVpa3QwdzdqYW43aGk4MjlxYmFuaHhja2R3M2YwZmU1eTlkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/msgHgCWZflkp9sbrCe/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhzeHVpa3QwdzdqYW43aGk4MjlxYmFuaHhja2R3M2YwZmU1eTlkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/msgHgCWZflkp9sbrCe/giphy.gif" width="500" height="250">
 
 
 
