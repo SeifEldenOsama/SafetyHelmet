@@ -68,8 +68,8 @@ pip install ultralytics gradio opencv-python numpy
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SeifEldenOsama/NTI-ETA-_FinalProject_SafetyHelmet.git
-    cd NTI-ETA-_FinalProject_SafetyHelmet
+    git clone https://github.com/SeifEldenOsama/SafetyHelmet.git
+    cd SafetyHelmet
     ```
 2.  **Ensure the model is present:** Verify that the `model/best_float32.tflite` file exists.
 3.  **Launch the application notebook:** Open the `notebooks/safety_helmet_application.ipynb` file in your Jupyter environment.
